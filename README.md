@@ -44,8 +44,8 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/rag-beyond-basics.git
-   cd rag-beyond-basics
+   git clone https://github.com/PromtEngineer/rag-beyond-basics-course.git
+   cd rag-beyond-basics-course
    ```
 
 2. **Create a virtual environment**
